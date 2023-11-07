@@ -1,1 +1,3 @@
-print("hi")
+print("hello")
+name="lindsay"
+print(name)
